@@ -76,52 +76,6 @@ User → UI (Jetpack Compose) → ViewModel → Repository → Data Sources
                                                           ├── Firebase (Auth, RTDB, FCM)
 ```
 
----
-
-## ⚙️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/whatsnext.git
-
-# Navigate to project
-cd whatsnext/android_app
-
-# Open in Android Studio
-# Sync Gradle files
-
-# Run on emulator or device
-./gradlew installDebug
-```
-
-**Requirements:**
-- Android Studio Hedgehog or later
-- Minimum SDK: 24
-- Target SDK: 34
-- Kotlin 1.9+
-
----
-
-## 🔐 Environment Variables
-
-Create a `google-services.json` file in the `app/` directory:
-
-1. Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/)
-2. Add an Android app with package name from your `build.gradle.kts`
-3. Download `google-services.json`
-4. Enable Firebase Authentication (Google Sign-In) and Realtime Database
-
-Optional: Create `key.properties` for release signing:
-
-```properties
-storePassword=your_store_password
-keyPassword=your_key_password
-keyAlias=your_key_alias
-storeFile=path_to_keystore.jks
-```
-
----
-
 ## 🧪 Usage
 
 **Step 1:** Launch the app and sign in with your Google account
