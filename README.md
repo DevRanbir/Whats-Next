@@ -43,39 +43,6 @@ What's Next is a comprehensive Android application designed to revolutionize the
 
 ---
 
-## 🧠 Tech Stack
-
-**Android Development**
-- Kotlin
-- Jetpack Compose (Material3)
-- MVVM Architecture
-- Coroutines & Flow
-
-**Backend & Database**
-- Firebase Authentication
-- Firebase Realtime Database
-- Firebase Cloud Messaging (FCM)
-
-
-**AI / ML**
-- Google ML Kit (Text Recognition for OCR)
-- ML Kit Barcode Scanning
-- ZXing (QR Code generation)
-
-**UI & Media**
-- CameraX
-- Lottie Animations
-- Accompanist (System UI & Permissions)
-
----
-
-## 🏗️ Architecture / Workflow
-
-```text
-User → UI (Jetpack Compose) → ViewModel → Repository → Data Sources
-                                                          ├── Firebase (Auth, RTDB, FCM)
-```
-
 ## 🧪 Usage
 
 **Step 1:** Launch the app and sign in with your Google account
@@ -99,40 +66,10 @@ User → UI (Jetpack Compose) → ViewModel → Repository → Data Sources
 
 ---
 
-## 📂 Project Structure
-
-```text
-android_app/
-├── app/
-│   ├── src/
-│   │   └── main/
-│   │       ├── kotlin/
-│   │       │   └── com/example/whatsnext/
-│   │       │       ├── data/
-│   │       │       │   ├── model/          # Data classes (ClassSession, Profile, etc.)
-│   │       │       │   └── repository/     # Business logic & Data fetching
-│   │       │       │       ├── PortalRepository.kt  # Portal scraping
-│   │       │       │       ├── FriendRepository.kt  # Friend management
-│   │       │       │       └── AuthRepository.kt    # Authentication
-│   │       │       ├── ui/
-│   │       │       │   ├── components/    # Reusable Composables
-│   │       │       │   ├── screens/       # Feature screens
-│   │       │       │   └── theme/         # Design system
-│   │       │       ├── utils/             # Helper functions
-│   │       │       └── widget/            # Home screen widgets
-│   │       └── res/
-│   ├── build.gradle.kts
-│   └── google-services.json
-├── build.gradle.kts
-└── settings.gradle.kts
-```
-
----
-
 ## 👥 Team / Author
 
 * **Project:** What's Next
-* **Platform:** Android
+* **Team:** Ranbir, Abhineet
 * **Status:** In Development
 
 ---
