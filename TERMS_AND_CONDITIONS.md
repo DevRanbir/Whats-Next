@@ -210,9 +210,8 @@ You agree to indemnify and hold harmless What's Next, its developers, and affili
 
 ## 17. Contact Information
 
-For questions, concerns, or support regarding these Terms:
-- Email: support@whatsnext.app
-- GitHub: https://github.com/DevRanbir/Whats-Next
+For questions, concerns, or support regarding these Terms
+- Website: https://richkeed.in
 - In-App: Use the feedback feature in Settings
 
 ## 18. Acknowledgment
