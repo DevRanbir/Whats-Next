@@ -8,13 +8,15 @@
 Your smart campus companion - Know where your friends are and what's happening next.
 
 ---
-<img width="18%" alt="Screenshot_20260124_014736" src="https://github.com/user-attachments/assets/110464c3-b3a9-4f8e-a692-24d184f8e862" />
-<img width="18%" alt="Screenshot_20260124_014700" src="https://github.com/user-attachments/assets/979a07bf-69d0-404d-b944-859f8362f2ad" />
-<img width="18%" alt="Screenshot_20260124_014235" src="https://github.com/user-attachments/assets/9772a486-4485-46f7-9eee-007c7e0d5f0c" />
-<img width="18%" alt="Screenshot_20260124_014624" src="https://github.com/user-attachments/assets/92b22e0b-640a-4df9-addd-8420f93b123a" />
-<img width="18%" alt="Screenshot_20260124_014337" src="https://github.com/user-attachments/assets/a40e993c-44a6-46aa-b506-b62f56ef26de" />
+<img width="20%" alt="1" src="https://github.com/user-attachments/assets/023b8060-307a-4e43-99e1-8eca0aee2e41" />
+<img width="20%" alt="2" src="https://github.com/user-attachments/assets/f94b6aed-87bc-4f23-bc83-5dee8bcff930" />
+<img width="20%" alt="3" src="https://github.com/user-attachments/assets/b60d47ed-6cfc-4b10-952d-5e0ad1b75147" />
+<img width="20%" alt="4" src="https://github.com/user-attachments/assets/7548b8ea-69cf-41b7-bd13-5ebeb9a71baf" />
+<img width="20%" alt="5" src="https://github.com/user-attachments/assets/610a7844-883e-48cb-b66f-6737e2cccdb4" />
+<img width="20%" alt="6" src="https://github.com/user-attachments/assets/87ed0297-2624-4a64-99b5-2c47c29dc028" />
+<img width="20%" alt="7" src="https://github.com/user-attachments/assets/cfdf75c4-8589-4431-9a50-248b6ea754f1" />
+<img width="20%" alt="8" src="https://github.com/user-attachments/assets/bdf73183-ad32-4af8-801a-7ed0b84afa89" />
 
----
 
 ## 📖 Description
 
